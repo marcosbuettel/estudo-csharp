@@ -1,0 +1,15 @@
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\04Construtor\obj\Debug\net6.0\04Construtor.csproj.AssemblyReference.cache
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\04Construtor\obj\Debug\net6.0\04Construtor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\04Construtor\obj\Debug\net6.0\04Construtor.AssemblyInfoInputs.cache
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\04Construtor\obj\Debug\net6.0\04Construtor.AssemblyInfo.cs
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\04Construtor\obj\Debug\net6.0\04Construtor.csproj.CoreCompileInputs.cache
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\04Construtor\bin\Debug\net6.0\04Construtor.exe
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\04Construtor\bin\Debug\net6.0\04Construtor.deps.json
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\04Construtor\bin\Debug\net6.0\04Construtor.runtimeconfig.json
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\04Construtor\bin\Debug\net6.0\04Construtor.dll
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\04Construtor\bin\Debug\net6.0\04Construtor.pdb
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\04Construtor\obj\Debug\net6.0\04Construtor.dll
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\04Construtor\obj\Debug\net6.0\refint\04Construtor.dll
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\04Construtor\obj\Debug\net6.0\04Construtor.pdb
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\04Construtor\obj\Debug\net6.0\04Construtor.genruntimeconfig.cache
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\04Construtor\obj\Debug\net6.0\ref\04Construtor.dll

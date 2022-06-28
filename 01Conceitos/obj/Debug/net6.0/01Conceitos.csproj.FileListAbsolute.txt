@@ -1,0 +1,15 @@
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\01Conceitos\bin\Debug\net6.0\01Conceitos.exe
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\01Conceitos\bin\Debug\net6.0\01Conceitos.deps.json
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\01Conceitos\bin\Debug\net6.0\01Conceitos.runtimeconfig.json
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\01Conceitos\bin\Debug\net6.0\01Conceitos.dll
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\01Conceitos\bin\Debug\net6.0\01Conceitos.pdb
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\01Conceitos\obj\Debug\net6.0\01Conceitos.csproj.AssemblyReference.cache
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\01Conceitos\obj\Debug\net6.0\01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\01Conceitos\obj\Debug\net6.0\01Conceitos.AssemblyInfoInputs.cache
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\01Conceitos\obj\Debug\net6.0\01Conceitos.AssemblyInfo.cs
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\01Conceitos\obj\Debug\net6.0\01Conceitos.csproj.CoreCompileInputs.cache
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\01Conceitos\obj\Debug\net6.0\01Conceitos.dll
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\01Conceitos\obj\Debug\net6.0\refint\01Conceitos.dll
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\01Conceitos\obj\Debug\net6.0\01Conceitos.pdb
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\01Conceitos\obj\Debug\net6.0\01Conceitos.genruntimeconfig.cache
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\01Conceitos\obj\Debug\net6.0\ref\01Conceitos.dll
