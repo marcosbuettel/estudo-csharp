@@ -1,0 +1,15 @@
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\05GetSet\obj\Debug\net6.0\05GetSet.csproj.AssemblyReference.cache
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\05GetSet\obj\Debug\net6.0\05GetSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\05GetSet\obj\Debug\net6.0\05GetSet.AssemblyInfoInputs.cache
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\05GetSet\obj\Debug\net6.0\05GetSet.AssemblyInfo.cs
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\05GetSet\obj\Debug\net6.0\05GetSet.csproj.CoreCompileInputs.cache
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\05GetSet\bin\Debug\net6.0\05GetSet.exe
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\05GetSet\bin\Debug\net6.0\05GetSet.deps.json
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\05GetSet\bin\Debug\net6.0\05GetSet.runtimeconfig.json
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\05GetSet\bin\Debug\net6.0\05GetSet.dll
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\05GetSet\bin\Debug\net6.0\05GetSet.pdb
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\05GetSet\obj\Debug\net6.0\05GetSet.dll
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\05GetSet\obj\Debug\net6.0\refint\05GetSet.dll
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\05GetSet\obj\Debug\net6.0\05GetSet.pdb
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\05GetSet\obj\Debug\net6.0\05GetSet.genruntimeconfig.cache
+D:\Users\MarcosASUS\Documents\Projetos\C#\Estudo\05GetSet\obj\Debug\net6.0\ref\05GetSet.dll
